@@ -9,10 +9,10 @@
 
 ## HALF SUBTRACTOR...
 ### Circuit diagram:
-![Half-Subtractor-in-Digital-Logic](https://github.com/dhanu0503/Experiment-1/assets/159155757/fa7b6ff5-c7fb-4be5-acf8-5d420210dc97)
+![download](https://github.com/dhanu0503/Experiment-1/assets/159155757/136de5df-c2a5-4a15-b679-7b95e29317a8)
 
 ### Truth Table:
-![download](https://github.com/dhanu0503/Experiment-1/assets/159155757/2800492f-f3d6-4eb2-adac-57160e0316ca)
+![download](https://github.com/dhanu0503/Experiment-1/assets/159155757/3026e2e0-fd29-4dc8-83c7-9db51fbf04cf)
 
 ## FULL ADDER...
 ### Circuit diagram:
@@ -37,7 +37,7 @@
 
 ## DECODER:
 ### Circuit diagram:
-![download](https://github.com/dhanu0503/Experiment-1/assets/159155757/e75668d1-a5ce-40fc-b390-76531eb71e73)
+![2-to-4-Decoder-Circuit-1](https://github.com/dhanu0503/Experiment-1/assets/159155757/cd90cffe-efd3-432b-a901-4858d182c4fe)
 
 ### Truth Table:
-![images](https://github.com/dhanu0503/Experiment-1/assets/159155757/8336f318-7932-48b4-a898-30ab82c7f47a)
+![download](https://github.com/dhanu0503/Experiment-1/assets/159155757/316ab348-7c3a-49ea-a9b2-64a3c6640976)
